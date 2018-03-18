@@ -4,6 +4,8 @@ A couple of scripts related to creating a HMAC (hash-based message authenticatio
 
 Wikipedia Explaination: [https://en.wikipedia.org/wiki/HMAC](https://en.wikipedia.org/wiki/HMAC).
 
+Marketplace Link: [https://marketplace.yoyogames.com/assets/6631/hmac-scripts](https://marketplace.yoyogames.com/assets/6631/hmac-scripts)
+
 ## Quick start
 
 - Import the scripts you require into your project.
